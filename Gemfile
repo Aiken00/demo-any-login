@@ -1,4 +1,4 @@
-ruby '2.5.1'
+ruby '2.6.2'
 
 source 'https://rubygems.org'
 
@@ -40,7 +40,7 @@ gem 'devise'
 gem 'annotate'
 gem 'hamlit'
 gem 'simple_form'
-gem "bootstrap", ">= 4.1.2"
+gem 'bootstrap', '~> 4.3.1'
 gem "lograge"
 gem "any_login"
 
